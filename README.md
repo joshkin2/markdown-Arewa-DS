@@ -17,7 +17,7 @@ _italic text 2_
 
 __bold italics2__
 
-_both **can** be combined_
+_both _**can**_ be combined_
 # Lists
 ## unordered lists(with nesting):
 - one
@@ -28,6 +28,7 @@ _both **can** be combined_
 1. option 1
 2. option 2
    1. nested option
-
+# adding links
+[banjotheo linkedin](https://www.linkedin.com/in/theophilus-adebanjo)
 
 
