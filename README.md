@@ -24,7 +24,10 @@ _both **can** be combined_
   - Nested one
 - two
   - Nested two
-
+## ordered lists(with nesting):
+1. option 1
+2. option 2
+   1. nested option
 
 
 
