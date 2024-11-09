@@ -7,3 +7,11 @@ this repo is to practice markdown
 #### level 4
 ##### level 5
 ###### level 6
+# Emphasis
+## to use italics:
+*Italic text*
+_italic text 2_
+## to use bold italics:
+**bold italics**
+__bold italics2__
+_both **can** be combined_
