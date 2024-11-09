@@ -10,8 +10,21 @@ this repo is to practice markdown
 # Emphasis
 ## to use italics:
 *Italic text*
+
 _italic text 2_
 ## to use bold italics:
 **bold italics**
+
 __bold italics2__
+
 _both **can** be combined_
+# Lists
+## unordered lists(with nesting):
+- one
+  - Nested one
+- two
+  - Nested two
+
+
+
+
