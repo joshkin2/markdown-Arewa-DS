@@ -30,5 +30,15 @@ _both _**can**_ be combined_
    1. nested option
 # adding links
 [banjotheo linkedin](https://www.linkedin.com/in/theophilus-adebanjo)
+# adding images
+![my picture]("C:\Users\theop\OneDrive\Documents\Documents\LinkedIn Content\Snapchat-1977728040.jpg")
+
+
+
+
+
+
+
+
 
 
