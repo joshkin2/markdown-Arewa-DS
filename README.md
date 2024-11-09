@@ -31,7 +31,12 @@ _both _**can**_ be combined_
 # adding links
 [banjotheo linkedin](https://www.linkedin.com/in/theophilus-adebanjo)
 # adding images
-![my picture](file:///C:/Users/theop/OneDrive/Documents/Documents/LinkedIn%20Content/Snapchat-1977728040.jpg)
+![my picture](/file:///C:/Users/theop/OneDrive/Documents/Documents/LinkedIn%20Content/Snapchat-1977728040.jpg)
+# code and syntax highlighting
+```python
+print('hello world!')
+```
+
 
 
 
